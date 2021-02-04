@@ -1,2 +1,2 @@
-# titanic_test
- Use streamlit create an app to test if u was on Titanic , survive or not? 
+# Alder Hey Hospital Triage App
+ Use streamlit to create an app to determine ED patient triage category? 
